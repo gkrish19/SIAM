@@ -15,4 +15,4 @@ References:
 [2] Choi, Jungwook, Zhuo Wang, Swagath Venkataramani, Pierce I-Jen Chuang, Vijayalakshmi Srinivasan, and Kailash Gopalakrishnan. "Pact: Parameterized clipping activation for quantized neural networks." arXiv preprint arXiv:1805.06085 (2018).
 
 Acknowledgement: 
-This work was supported in part by C-BRIC, one of the six centers in JUMP, a Semiconductor Research Corporation program sponsored by DARPA, NSF CAREER Award CNS-1651624 and Semiconductor Research Corporation under task ID 2938.001.
+This work was supported in part by C-BRIC, one of the six centers in JUMP, a Semiconductor Research Corporation program sponsored by DARPA.
