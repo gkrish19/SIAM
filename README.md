@@ -13,3 +13,6 @@ If you are using this tool, please cite the following work:
 References:
 [1] Chen, Pai-Yu, Xiaochen Peng, and Shimeng Yu. "NeuroSim: A circuit-level macro model for benchmarking neuro-inspired architectures in online learning." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 37, no. 12 (2018): 3067-3080.
 [2] Choi, Jungwook, Zhuo Wang, Swagath Venkataramani, Pierce I-Jen Chuang, Vijayalakshmi Srinivasan, and Kailash Gopalakrishnan. "Pact: Parameterized clipping activation for quantized neural networks." arXiv preprint arXiv:1805.06085 (2018).
+
+Acknowledgement: 
+This work was supported in part by C-BRIC, one of the six centers in JUMP, a Semiconductor Research Corporation program sponsored by DARPA, NSF CAREER Award CNS-1651624 and Semiconductor Research Corporation under task ID 2938.001.
